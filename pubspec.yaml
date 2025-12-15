@@ -66,6 +66,7 @@ flutter:
     - assets/images/logo.jpg
     - assets/images/u-i-a-cat-deo-kinh.jpg
     - assets/images/thien_nhien.jpg
+    - assets/images/logo_microsoft.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

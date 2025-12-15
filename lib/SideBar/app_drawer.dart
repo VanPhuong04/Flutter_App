@@ -23,19 +23,19 @@ class AppDrawer extends StatelessWidget {
                   radius: 32,
                   backgroundColor: Colors.white,
                   backgroundImage: AssetImage(
-                    'assets/images/u-i-a-cat-deo-kinh.jpg',
+                    'assets/images/logo.jpg',
                   ),
                 ),
                 SizedBox(height: 10),
                 Text(
-                  "Danh sách bài tập",
+                  "Lê Văn Phương",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 18,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                Text("Nhóm 4 - LTDD", style: TextStyle(color: Colors.white70)),
+                Text("22T1080026", style: TextStyle(color: Colors.white70)),
               ],
             ),
           ),
